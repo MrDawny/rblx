@@ -1,4 +1,4 @@
-local Speed = FlySpeedValue
+local Speed = FlySpeedValue1
 
 if not RootAnchorBypassed then
     getgenv().RootAnchorBypassed = true
