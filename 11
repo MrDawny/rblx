@@ -1,0 +1,4 @@
+for i = 120, 0, -1 do
+    TimeTL.Text = "Time: "..i
+    wait(1)
+end
