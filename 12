@@ -1,0 +1,1 @@
+while true do wait() Ping.Text = "Ping: " .. game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValueString() end
